@@ -1,0 +1,66 @@
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\ResolveAssemblyReference.cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frchinh.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frdangnhap.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.Properties.Resources.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.csproj.GenerateResource.Cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.exe
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.pdb
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.exe
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.pdb
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frhosobenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frluongnhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frvienphibenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frhosonhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frtamung.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frquanlytaikhoan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frtimkiem.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.exe.config
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.fr_rp_hosobenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\RdlCompile.cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\RdlCompile.compiled
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.fr_rp_hosonhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frdoimatkhau.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.exe.config
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.exe
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.pdb
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.exe
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.pdb
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\ResolveAssemblyReference.cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frchinh.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frdangnhap.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frdoimatkhau.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frhosobenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frhosonhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frluongnhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frquanlytaikhoan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frtamung.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frtimkiem.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frvienphibenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.fr_rp_hosobenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.fr_rp_hosonhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.Properties.Resources.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.csproj.GenerateResource.Cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\RdlCompile.cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\do an chinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\RdlCompile.compiled
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.exe.config
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.exe
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.pdb
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.exe
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\bin\Debug\projectquanlybenhvientinhangiang.pdb
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\ResolveAssemblyReference.cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frchinh.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frdangnhap.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frdoimatkhau.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frhosobenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frhosonhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frluongnhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frquanlytaikhoan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frtamung.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frtimkiem.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.frvienphibenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.fr_rp_hosobenhnhan.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.fr_rp_hosonhanvien.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.Properties.Resources.resources
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\projectquanlybenhvientinhangiang.csproj.GenerateResource.Cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\RdlCompile.cache
+D:\linh vuc hoc tap\lam do an\doancongnghedotnet\NHOM_01(CD02020017_CD02020021)\do an quan ly benh vien tinh\projectquanlybenhvientinhangiang\projectquanlybenhvientinhangiang\obj\Debug\RdlCompile.compiled
